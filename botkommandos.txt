@@ -1,0 +1,10 @@
+/Befehl - Beschreibung
+help - Zeigt alle Befehle an
+abbrechen - Bricht die aktuellen Eingaben ab
+alarme - Befehl um Einstellungen der Alarme anzupassen
+benachrichtigungen - Befehl um Einstellungen der Benarichtigungen anzupassen
+start - Registriert den Account
+acc_loeschen - Löscht den Account und alle Einstellungen
+
+Bugfehler und Verbesserungsvorschläge bitte hier posten:
+https://github.com/Hofei90/Wetterbot
